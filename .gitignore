@@ -32,8 +32,4 @@ build/
 ### VS Code ###
 .vscode/
 
-# --- ADD THIS SECTION ---
-# Secrets
-# Ignore the file with database passwords and keys
 application.properties
-# ------------------------
